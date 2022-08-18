@@ -1,2 +1,2 @@
 # H-D3QN
-Multi target point cruise of networked UAV Based on deep hierarchical reinforcement learning
+Multi target point navigation of networked UAV Based on deep hierarchical reinforcement learning
